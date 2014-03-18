@@ -1,0 +1,9 @@
+This is a private addon for www.zombiespain.es Dayz servers custom base building system.
+
+Daimyo21 for the amazing base building mod that made me into arma 2 scripting.
+Mondkalb for MBG Creationism models that I used for doors.
+Fran89 for the stone bunker.
+-=engener=- for the BAZEF light towers.
+
+
+Segator, Zh3o , Raiven, Gouki, Ruizman, Odiruol, and all the team of zombiespain for all their help.

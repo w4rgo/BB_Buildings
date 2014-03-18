@@ -1,0 +1,1 @@
+[] call fnc_delete_camera_menu;

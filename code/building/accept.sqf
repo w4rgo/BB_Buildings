@@ -1,0 +1,1 @@
+bb_state_decide=true;
